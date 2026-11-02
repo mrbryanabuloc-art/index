@@ -1,0 +1,8 @@
+{
+  "name": "Baby Feed Log",
+  "description": "Private, local-first baby feeding tracker with real-time standby display of the last feeding, 2-day history, and daily reset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
